@@ -3,6 +3,8 @@ PYRAMID
 Pyramid is a small, fast, down-to-earth, open source Python web framework. It makes real-world web application development and deployment more fun, more predictable, and more productive.
 Pyramid is much like Flask which takes very little effort to install and run.
 
+Follow the below commands to create a simple pyramid application :
+
 PREREQUISITES :
 
    1. Set up your Python environment:
